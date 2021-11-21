@@ -1,0 +1,15 @@
+ADDITIONAL FILES 
+These two files are used to perform the sanity check with make check
+check.sh
+This is the correct output file which checks if all the options are reporting the correct errors and have to correct outputs
+correct.txt
+
+For make check, I just used the most basic cases that were asked for in the spec
+input file to stdout
+input file to output file
+check argument handling; no argument for --input
+check option handling: fake option
+
+check segfault 
+check segfault catch 
+check segfault dumpcore

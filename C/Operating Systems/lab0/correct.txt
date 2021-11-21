@@ -1,0 +1,6 @@
+fake file content
+fake file content
+Argument is required for --input option. Correct usage --input=FILE or --input FILE 
+Invalid option given. Valid options are: --input=FILE --output=FILE --segfault --catch --dump-core 
+Segfault caught, exiting program... 
+Dump-core on segfault
